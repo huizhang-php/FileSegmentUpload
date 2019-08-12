@@ -1,0 +1,17 @@
+{
+  "name": "huizhang/file-segment-upload",
+  "type": "library",
+  "description": "大文件分段上传",
+  "keywords" : ["file", "upload","huizhang"],
+  "authors": [
+    {
+      "name": "huizhang",
+      "email": "huizhang_admin@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Huizhang\\FileSegmentUpload\\": "src/"
+    }
+  }
+}
