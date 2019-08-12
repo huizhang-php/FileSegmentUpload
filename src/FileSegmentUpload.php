@@ -1,7 +1,7 @@
 <?php
 /**
  * @CreateTime:   2019/8/3 下午1:48
- * @Author:       huizhang  <huizhang_admin@163.com>
+ * @Author:       huizhang  <tuzisir@163.com>
  * @Copyright:    copyright(2019) huizhang all rights reserved
  * @Description:  大文件分段上传
  */
